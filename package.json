@@ -19,7 +19,5 @@
     "url": "https://github.com/aman-dhiman-pkz/change-pdf/issues"
   },
   "homepage": "https://github.com/aman-dhiman-pkz/change-pdf#readme",
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+  
 }
