@@ -1,0 +1,25 @@
+{
+  "name": "change-pdf",
+  "version": "1.0.0",
+  "description": "A node.js library to perform operation on pdf file",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-dhiman-pkz/change-pdf.git"
+  },
+  "author": "Aman Dhiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-dhiman-pkz/change-pdf/issues"
+  },
+  "homepage": "https://github.com/aman-dhiman-pkz/change-pdf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
