@@ -2,7 +2,7 @@
   "name": "change-pdf",
   "version": "1.0.0",
   "description": "A node.js library to perform operation on pdf file",
-  "main": ".lib/pdfUtility.js",
+  "main": "./lib/pdfUtility.js",
   "directories": {
     "lib": "lib"
   },
