@@ -1,6 +1,6 @@
 {
   "name": "change-pdf",
-  "version": "1.0.10",
+  "version": "1.0.1",
   "description": "A node.js library to perform operation on pdf file",
   "main": "./lib/pdfUtility.js",
   "directories": {
@@ -18,6 +18,6 @@
   "bugs": {
     "url": "https://github.com/aman-dhiman-pkz/change-pdf/issues"
   },
-  "homepage": "https://github.com/aman-dhiman-pkz/change-pdf#readme",
+  "homepage": "https://github.com/aman-dhiman-pkz/change-pdf#readme"
   
 }
